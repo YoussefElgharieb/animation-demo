@@ -1,0 +1,12 @@
+.frame {
+    position: relative;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100vh;
+    min-height: 500px;
+
+    background-color: #0b1012;
+}
+
