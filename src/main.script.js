@@ -4,7 +4,7 @@ import runMessageAnimation from "./modules/message/message.script.js";
 import rigidBodyAnimation from "./modules/rigidBodies/rigidBodies.script.js";
 
 
-//await runLoaderAnimation();
+await runLoaderAnimation();
 runMessageAnimation();
 rigidBodyAnimation();
 
